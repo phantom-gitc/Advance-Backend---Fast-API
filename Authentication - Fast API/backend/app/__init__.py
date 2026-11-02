@@ -1,0 +1,2 @@
+"""FastAPI Authentication Application package."""
+
